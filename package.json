@@ -1,0 +1,11 @@
+{
+  "name": "tirelire-darna",
+  "private": true,
+  "workspaces": [
+    "api-gateway",
+    "auth-service",
+    "darna-service",
+    "frontend",
+    "tirelire-service"
+  ]
+}
